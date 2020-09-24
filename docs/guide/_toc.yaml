@@ -6,6 +6,8 @@ toc:
   style: divider
 - title: "Automatic Hyperparameter Tuning"
   path: /tfx/guide/tuner
+- title: "Custom Splits Support for ExampleGen's Downstreams"
+  path: /tfx/guide/examplegen#examplegen_downstream_components
 - title: "Using Keras with TFX"
   path: /tfx/guide/keras
 - title: "Using TFX in Cloud AI Platform Pipelines"
